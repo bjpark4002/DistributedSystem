@@ -1,0 +1,54 @@
+parallels@parallels-vm:~/Desktop/test/objs/x64Linux3gcc5.4.0$ ./pr1_publisher
+RTI Data Distribution Service EVAL License issued to wsu bumjin.park@wsu.edu For non-production use only.
+Expires on 28-Mar-2019 See www.rti.com for more information.
+Writing Msg, count 0
+Writing Msg, count 1
+Writing Msg, count 2
+Writing Msg, count 3
+Writing Msg, count 4
+Writing Msg, count 5
+Writing Msg, count 6
+Writing Msg, count 7
+Writing Msg, count 8
+Writing Msg, count 9
+Writing Msg, count 10
+Writing Msg, count 11
+Writing Msg, count 12
+Writing Msg, count 13
+Writing Msg, count 14
+Writing Msg, count 15
+Writing Msg, count 16
+Writing Msg, count 17
+Writing Msg, count 18
+Writing Msg, count 19
+Writing Msg, count 20
+Writing Msg, count 21
+Writing Msg, count 22
+Writing Msg, count 23
+Writing Msg, count 24
+Writing Msg, count 25
+Writing Msg, count 26
+Writing Msg, count 27
+Writing Msg, count 28
+Writing Msg, count 29
+Writing Msg, count 30
+Writing Msg, count 31
+Writing Msg, count 32
+Writing Msg, count 33
+Writing Msg, count 34
+Writing Msg, count 35
+Writing Msg, count 36
+Writing Msg, count 37
+Writing Msg, count 38
+Writing Msg, count 39
+Writing Msg, count 40
+Writing Msg, count 41
+Writing Msg, count 42
+Writing Msg, count 43
+Writing Msg, count 44
+Writing Msg, count 45
+^Z
+[1]+  Stopped                 ./pr1_publisher
+
+
+

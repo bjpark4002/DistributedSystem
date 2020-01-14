@@ -1,0 +1,40 @@
+parallels@parallels-vm:~/Desktop/test/objs/x64Linux3gcc5.4.0$ ./pr1_subscriber 
+RTI Data Distribution Service EVAL License issued to wsu bumjin.park@wsu.edu For non-production use only.
+Expires on 28-Mar-2019 See www.rti.com for more information.
+
+   sender: "---Bumjin Park---"
+   message: "Apple"
+   Received: 0
+
+   sender: "---Bumjin Park---"
+   message: "Cherry"
+   Received: 8
+
+   sender: "---Bumjin Park---"
+   message: "Pear"
+   Received: 16
+
+   sender: "---Bumjin Park---"
+   message: "Banana"
+   Received: 24
+
+   sender: "---Bumjin Park---"
+   message: "Carrots"
+   Received: 32
+
+   sender: "---Bumjin Park---"
+   message: "Apple"
+   Received: 40
+^Z
+[1]+  Stopped                 ./pr1_subscriber
+
+
+
+
+
+
+
+
+
+
+
